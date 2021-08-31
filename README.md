@@ -55,14 +55,14 @@ Generally, you would want to compile and execute the program locally. To do that
 2. Open the terminal or command line and navigate to the directory where the downloaded file resides.
 3. Run the following commands to compile and execute the program:
 
-BASH:
+### Command Line / Bash
 
 ```git
 g++ RPSLS.cpp -o RPSLS
 ./RPSLS
 ```
 
-COMMAND PROMPT:
+### Command Prompt
 
 ```git
 g++ RPSLS.cpp -o RPSLS
