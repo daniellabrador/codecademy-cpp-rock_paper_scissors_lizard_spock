@@ -15,7 +15,7 @@ You may have played Rock, Paper, Scissors, but have you played [Rock, Paper, Sci
 
 ![Rock Paper Scissors Lizard Spock](./resources/img/RPSLS.gif)
 
-Write a `rock_paper_scissors.cpp` program that:
+Write a `RPSLS.cpp` program that:
 
 - Prompts the user to select either Rock, Paper, Scissors, Lizard, or Spock.
 - Instructs the computer to randomly select either Rock, Paper, Scissors, Lizard, or Spock.
@@ -51,13 +51,22 @@ As aptly put by [Sheldon Cooper of The Big Bang Theory](https://www.youtube.com/
 
 Generally, you would want to compile and execute the program locally. To do that:
 
-1. Download `rock_paper_scissors.cpp`.
+1. Download `RPSLS.cpp`.
 2. Open the terminal or command line and navigate to the directory where the downloaded file resides.
 3. Run the following commands to compile and execute the program:
 
+BASH:
+
 ```git
-g++ rock_paper_scissors.cpp -o rock_paper_scissors
-./rock_paper_scissors
+g++ RPSLS.cpp -o RPSLS
+./RPSLS
+```
+
+COMMAND PROMPT:
+
+```git
+g++ RPSLS.cpp -o RPSLS
+RPSLS.exe
 ```
 
 ## Sources
